@@ -1,0 +1,18 @@
+There are many test approaches but I try to use one of the below for regular QA work. However If there is specific requirement then I can work on that as well.
+
+1. Dynamic and heuristic approaches - Self discovering and learning
+2. Standard-compliant approach specified by industry-specific standards - Using existing Testing standards
+3. Methodical approach, which is based on failures - Based on previous experience of the system
+
+Improving QA- 
+- Start with getting basic product understanding and derive a test strategy and plan
+- Create Test plan(If required)
+- Create Test cases sheet with steps and details(If Required)
+- Test the Application/product under test
+- Capture the issues and Bugs with Detailed test report.
+- Prepare Test and Defect summary report
+- When developers fix the bugs, retest bugs and regression testing(if requested)
+
+The above process and approach might need changes based on specific project needs, risk factors of Application under test, etc
+
+

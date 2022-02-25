@@ -1,0 +1,19 @@
+Automation QA Engineer C# / Java / Python
+$12.00/hr
+I am extremely experienced Automation QA Engineer with a history of working for substantial clients in various regions and positions. Talented in C#, Java ,Python, Selenium WebDriver and Appium.
+
+TECHNICAL SKILLS:
+Platforms: Windows 10/8/7, Mac OS X, Linux
+Mobile Platforms: iOS, Android OS
+Programming: HTML, XML, CSS, Java, SQL
+Networking: TCP/IP, FTP, HTTP
+Test Automation: Selenium WebDriver, Nightwatch.js, Java, TestNG, JUnit, Appium
+Performance testing: LoadRunner, JMeter
+Virtualization: VMware, VirtualBox, Genymotion
+Bug Tracking: JIRA
+Tools: Firebug, Chrome Developer tools, MS Office, IntelliJ IDEA
+VCS: Git
+Build Tools: Maven, Gradle
+
+
+less

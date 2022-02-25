@@ -1,0 +1,21 @@
+Dear Hiring Manager,
+
+I would like to express my interest in these testing requirements. I have more than 8 years of experience on Manual testing, Mobile and Website Testing, Regression, Functional, UAT, API Testing, POSTMAN and Automation testing of UI. I am an ISTQB certified tester and have demonstrated Testing and Automation capabilities working on high risk and complex applications. Testing with a result oriented approach by reducing defects and improving product quality using best and proven testing practices.
+
+I believe in 100% client satisfaction, 100% feature testing coverage and I am confident you will find my work superior for the job. I will deliver and handle the requirements with utmost care and precision.
+
+As I am not working on any parallel assignment now, I will be able to spend dedicated time for this task. Also I am trying to build a portfolio on Upwork(already working on other platforms as QA) hence offering pricing relaxations.
+
+Please have a look at attached artefacts that I have already delivered for my other client. Looking forward to connecting with you and working together.
+
+✔SKILLS:
+
+☞Prepare Test plan, Test cases, Test matrix and bug reports.
+☞Automation Testing using Selenium WebDriver (Java, C# and Python).
+☞Web testing, API testing, Mobile Apps
+☞API Testing with Postman, Soap UI, Swagger Codegen
+☞ISTQB Certified
+☞Azure Fundamentals Certified
+
+Regards,
+Piyushkumar

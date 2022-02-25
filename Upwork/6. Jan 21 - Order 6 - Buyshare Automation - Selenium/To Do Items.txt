@@ -1,0 +1,26 @@
+
+1. Remove all PlanIt References
+2. How to use guide
+3. Tools and Technology Guide
+4. Automated Tests
+5. Manual Test case documents
+6. Scroll elements in to views/filters verification - Scroll to middle of the page
+Load all providers
+Check for redirect HTTP issue if get time - refer this- https://mkyong.com/java/java-httpurlconnection-follow-redirect-example/
+
+Add Waits/Synchronization times
+
+
+
+//*[@id="finPriceFilter"]/div[1]/div/div/div/div[2]/div/div[1]/div/div/div/input
+
+//Explain Currency Elements identification
+
+
+//*[@id="instance-forex521-1-forex-platforms"]
+//*[@id="instance-forex521-forex-filter"]/div[1]/div[2]/div[2]/div[1]
+
+//*[@id="content"]/div[3]//*[@name='paymentMethods']
+
+
+//*[@id="instance-crypto507-finMoreFilterCollapseAction"]/div[1]/div[2]

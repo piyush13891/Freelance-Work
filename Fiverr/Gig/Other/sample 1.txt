@@ -1,0 +1,36 @@
+QA Expert : Manual | Automation Testing
+$10.00/hr
+Result-oriented Quality Assurance Engineer with 8+ years of experience in Software Testing.
+Working experience in a multi-national and multi-cultural environments.
+Practical knowledge of many technologies adopted throughout planning, designing, implementing and troubleshooting the same.
+Demonstrated capacity to successfully manage multiple projects and meet deadlines.
+Easily learns and adopts new technologies and tools and follows software industry trends. Capable for fast adjustment to a new environment.
+
+Skills:
+• Manual Testing
+• Expert in design Test scenarios and Test cases
+• Desktop, Web and Mobile App Testing
+• Automation Testing with Selenium Web driver(JAVA and Python)
+• Database Testing with SQL Server
+• API Testing with Postman
+• Performance Testing with Jmeter
+• ETL Testing
+• BI Testing
+• Cloud Application Testing
+• Well versed with agile software development life cycle
+• HP ALM (Application Life Cycle Management)
+• Bug Tracking tool like JIRA, TFS, VSTS
+• Version Control Tool - Git
+• Google Analytics
+
+• A CI/CD Tool Bamboo and Jenkins
+• Functional QA
+• Regression and Retesting
+
+Programming Languages I&#39;m Expertise in
+• Java
+• Python
+
+My professional strengths are not just limited to my experience and knowledge. I always try to learn and acquire new skills.
+
+I look forward to work with you!

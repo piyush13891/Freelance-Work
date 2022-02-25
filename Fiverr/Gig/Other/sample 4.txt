@@ -1,0 +1,86 @@
+Manual/Automation QA [Selenium, Appium][Mobile/Web]
+$17.00/hr
+☞ 39,000+ Hours in Upwork with good feedback ***
+
+☞ TOP-RATED Plus Badge ***
+
+✔ Over the Last 11 Years, Providing Manual|Mobile|Automation Testing Services.
+
+✔ Improve software quality, meet customer expectations and reduce defects by supporting proven software quality practices and implementing practical and effective process improvement methods.
+
+================================================
+☞ All are repeatable clients
+☞ Expertise on |Selenium|Jenkins|Mocha|Chai|API Testing|Manual Testing
+☞ Web Researcher
+
+I implemented CONTINUOUS INTEGRATION(Jenkins, Bamboo, CC, Go, TeamCity etc) solutions with acceptance testing frameworks:
+=================
+☞ Cucumber
+☞ Calabash
+☞ Selenium
+☞ Gerkin
+=================
+☞ BrowserStack
+☞ SauceLabs
+☞ AWS Device Farm
+☞ Sahi Pro
+================================================
+
+✔ OS: Win XP/Vista/7(32 bit and 64 bit)/10/10 Pro(32 bit and 64 bit), Linux, Mac OS X
+Browsers: IE 6/7/8/9/10/11, Firefox, Opera, Safari, Chrome
+
+================================================
+
+✔ iMac,MacBookPro
+
+================================================
+✔ iOS Devices
+
+- iPhone 11 Pro (iOS 13)
+
+- iPhone X(iOS 13)
+
+- iPhone 8 (iOS 13)
+
+- iPhone 8+ (iOS 13)
+
+- iPhone 7 (iOS 13)
+
+- iPhone 7 Plus (iOS 13)
+
+- iPhone 6 Plus (iOS 13)
+================================================
+
+✔ Android devices
+
+- Samsung Galaxy Note10
+
+- Mate 20Pro
+
+- Google Nexus
+
+- OnePlus 8T
+
+================================================
+
+Plan and perform effective software testing through a combination of familiar structured test techniques, rapid test practices and test automation where applicable.
+
+✔ Experience in writing Performance test plans.
+
+Proficiency in Performance testing tools such as Load Runner, Microsoft Team Edition, JMeter, WEB Load, OpenSTA.
+
+✔ Expert with automation testing tools such as Selenium, Mocha, Chai, TestNG, JUnit
+
+✔ Experience in test case preparation and execution & actively involved in Preparing and executing Test Cases according to test strategy.
+
+Extensive experience to write CASE STUDY for Project
+
+✔ Actively involve in UAT for Business.
+
+✔ Well versed in Defect Tracking & Bug Reporting
+
+Extensive work experience on Sanity Testing, smoke testing, Regression Testing, Functional Testing, and Performance Testing, User Interface Testing and Ad-hoc testing.
+
+✔ Good presentation skills, commitment, result-oriented, hard-working with a quest and zeal to learn new technologies and undertake challenging tasks.
+
+less

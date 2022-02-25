@@ -1,0 +1,26 @@
+Software QA Engineer
+$15.00/hr
+# Single Female QA Freelancer with Web and Mobile App Testing skills.
+# Very good experience in Mobile App Testing, website and Game testing.
+
+- Functional, UI/UX/Front-end, Regression, smoke, black-box and Cross Browser testing.
+- Technical documentation (User manual, Installation guides, Testplans, Testcases,
+TestScenarios)
+- Domain experience SAAS, Insurance, Mobile, Healthcare, Financial, eCommerce, Gaming,
+Banking & Point of Sale (POS), ERP.
+
+✔ Cross browser testing in most platforms, OS (Win 10 and Mac) and web browser versions (IE, Chrome, Firefox, Safari, Opera).
+
+✔ Vast experience in Test management tools like ApTest Manager, BaseCamp, Rally, Asana, Assembla, Trello.
+
+✔ Expertise in Defect Management and Tracking tools, like JIRA, Bugzilla, Mantis, Rally, BugHost, Asana, Assembla, Trello , BugTracker etc.
+
+✔ Very good at providing testing documentation in form of release docs, test matrices and Powerpoint presentations.
+
+✔ Ability to attain a quick understanding of the FRS / SRS and generate adequate test cases to ensure *near* 100% coverage of requirements.
+
+✔ In case, no concrete requirement document is available, can make use of Exploratory Testing skills to perform testing with excellent results.
+
+✔ Good understanding of Software Development Life Cycle (SDLC) and Software Testing Methodologies. Possesses good Communication, Analytical, Problem solving and Documentation skills.
+
+✔ Designing and executing System, Functional, Acceptance, Smoke and Regression Test cases.
